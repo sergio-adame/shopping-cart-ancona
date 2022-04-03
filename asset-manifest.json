@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-ancona/static/css/main.8ae46512.chunk.css",
+    "main.js": "/shopping-cart-ancona/static/js/main.af94b9a9.chunk.js",
+    "main.js.map": "/shopping-cart-ancona/static/js/main.af94b9a9.chunk.js.map",
+    "runtime-main.js": "/shopping-cart-ancona/static/js/runtime-main.fc25615f.js",
+    "runtime-main.js.map": "/shopping-cart-ancona/static/js/runtime-main.fc25615f.js.map",
+    "static/js/2.8f4d6a19.chunk.js": "/shopping-cart-ancona/static/js/2.8f4d6a19.chunk.js",
+    "static/js/2.8f4d6a19.chunk.js.map": "/shopping-cart-ancona/static/js/2.8f4d6a19.chunk.js.map",
+    "index.html": "/shopping-cart-ancona/index.html",
+    "precache-manifest.38a92b85a4d88bc958fc4c8e086821d5.js": "/shopping-cart-ancona/precache-manifest.38a92b85a4d88bc958fc4c8e086821d5.js",
+    "service-worker.js": "/shopping-cart-ancona/service-worker.js",
+    "static/css/main.8ae46512.chunk.css.map": "/shopping-cart-ancona/static/css/main.8ae46512.chunk.css.map",
+    "static/js/2.8f4d6a19.chunk.js.LICENSE.txt": "/shopping-cart-ancona/static/js/2.8f4d6a19.chunk.js.LICENSE.txt",
+    "static/media/AnconaAutopartes.png": "/shopping-cart-ancona/static/media/AnconaAutopartes.3a60e3be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc25615f.js",
+    "static/js/2.8f4d6a19.chunk.js",
+    "static/css/main.8ae46512.chunk.css",
+    "static/js/main.af94b9a9.chunk.js"
+  ]
+}
